@@ -1,6 +1,6 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-Online Quiz platform
+Online Quiz platform which is open to all
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. C B Nandhana https://github.com/nandhana04cb
